@@ -1,2 +1,2 @@
-# TinDog-Kasper
- Intro Bootstrap
+# TinDog Kasper Completed
+ Intro to BootStrap
